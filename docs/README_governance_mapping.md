@@ -1,4 +1,3 @@
-# README
 ## Understanding System-Level AI Governance, AI Systems, and Governance Mapping
 
 This document explains the relationship between:
