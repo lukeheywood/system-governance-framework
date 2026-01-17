@@ -1,8 +1,13 @@
-# AI System Design & Governance
+# System Governance Framework
 
-### System-Level Framework for Governed AI Systems
+### A constitutional framework for governing complex systems with delegated authority  
+*(including AI-enabled systems as a primary stress case)*
 
-This repository defines a **system-level AI System Design & Governance framework**.
+This repository defines a **system-level governance framework for complex socio-technical systems**.
+
+AI-enabled systems are treated as one class of system whose properties
+(surface-level autonomy, opacity, scale, and failure amplification)
+make governance failures visible earlier — not as a special case.
 
 It specifies how **any AI-enabled socio-technical system** must be:
 - conceived,
@@ -55,7 +60,7 @@ If a system cannot do this, governance is not real.
 
 ## 🧱 What this framework governs
 
-This framework governs **AI-enabled socio-technical systems**, including:
+This framework governs **socio-technical systems with delegated authority**, including:
 
 - computational components (AI and non-AI),
 - human actors and decision-makers,
