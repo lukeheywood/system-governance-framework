@@ -41,6 +41,8 @@ independently of any specific implementation.
 AI systems may be inspected against this framework,
 but the framework never depends on the systems it governs.
 
+Human authority must remain operationally meaningful — which requires explicit constraints on human capacity under load (starting with HICC).
+
 ---
 
 ## 🏛️ Core principle

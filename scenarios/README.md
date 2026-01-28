@@ -55,3 +55,26 @@ No scenario refers to a real system.
 No scenario should be interpreted as commentary on any specific organisation.
 
 They are governance simulations only.
+
+---
+
+## Scenario Index
+
+01 — Emergency Health Advisory  
+02 — Revocation Mirage  
+03 — Automated Welfare Suspension  
+04 — Energy Grid AI Load Shedding  
+05 — Algorithmic Public Information Influence  
+06 — Autonomous Military Escalation  
+07 — National Education Streaming  
+08 — Global Pandemic Response Engine  
+09 — Border Risk Scoring System  
+10 — Financial Market Auto Throttle  
+11 — Platform Moderation Blackbox  
+12 — Credit Exclusion Under Recession  
+13 — International Aid Allocation Engine  
+14 — Climate Intervention Modelling  
+15 — Public Sector Automation Approvals  
+16 — Human Interpretive Capacity Collapse (HICC)
+16a — Platform Autonomy Surge (HICC)
+16b — Welfare Policy Shock (HICC)
